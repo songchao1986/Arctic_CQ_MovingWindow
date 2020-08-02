@@ -1,4 +1,4 @@
-This repository contains data and R code to perform a moving window C-Q analysis of high frequency data collected in Kuparuk River. The analaysis is based on Zimmer et al (2019). Below is a brief description of the files contained in this repository.
+This repository contains data and R code to perform a moving window C-Q analysis of high frequency data collected in Kuparuk River. The analaysis is based on [Zimmer et al (2019)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR023478). Below is a brief description of the files contained in this repository.
 
 **Data files**
 
